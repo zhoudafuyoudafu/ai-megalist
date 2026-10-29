@@ -422,6 +422,7 @@ Make things - words, images, video, sound.
 | [HunyuanVideo](tools/hunyuan_video.md) | `OSS` Tencent's 13B video model; ComfyUI / LoRA-friendly |
 | [Wan 2.x](tools/wan.md) | `OSS` Alibaba; Apache 2.0; strong motion at small + big sizes |
 | [Gemini Omni](https://gemini-omni.pro) | `Free` Google omni-modal model; text, image, video & audio in one prompt; native audio sync; free 720p |
+| [Rhyvello](https://ai-rap-video-maker.com/) | Paid credits; turns 1–2 photos into a short AI rap video for TikTok/Reels/Shorts |
 
 > ⚠️ **Heads up (April 2026):** OpenAI's Sora consumer apps shut down on **2026-04-26**; the API follows on **2026-09-24**.
 
@@ -441,6 +442,7 @@ Make things - words, images, video, sound.
 | [HeyGen](tools/heygen.md) | AI avatars; multilingual lipsync |
 | [Synthesia](tools/synthesia.md) | Corporate avatar videos from scripts |
 | [Tavus](tools/tavus.md) | Personalized AI video at scale |
+| [Genjutsu AI](https://genjutsuai.dev/) | Freemium; browser video editor that restyles any video from reference photos (outfit/character swap) |
 
 ### Voice & speech
 
